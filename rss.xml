@@ -5,6 +5,7 @@
     <link>https://polizei.nrw/</link>
     <description/>
     <language>de</language>
+    <atom:link href="https://s0t7x.github.io/rss_test/rss.xml" rel="self" type="application/rss+xml" />
     
     <item>
   <title>22-jähriger Raser verursacht Verkehrsunfall</title>
@@ -86,6 +87,5 @@
     <dc:creator>Ministerium des Innern des Landes Nordrhein-Westfalen</dc:creator>
     <guid isPermaLink="true">https://polizei.nrw/presse/schwarzer-renault-megane-gestohlen</guid>
     </item>
-<atom:link href="https://s0t7x.github.io/rss_test/rss.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
